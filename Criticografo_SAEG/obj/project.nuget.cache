@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VP+LM4Iqx+qy4nKoUyPYH/WfeiGahUZ4rZWV+Em731y0z+DiTJ4vxPey1xHnLzLf8I172/NhzT1ujjXHkgmFaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cd19\\source\\repos\\Criticografo_SAEG\\Criticografo_SAEG\\Criticografo_SAEG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cd19\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cd19\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cd19\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cd19\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cd19\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
