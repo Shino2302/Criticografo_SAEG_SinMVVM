@@ -11,7 +11,25 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
-    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <None Remove="Fonts\AdventureScript.ttf" />
+    <None Remove="Fonts\FunnyPirates.otf" />
+    <None Remove="Fonts\MidnightShow.ttf" />
+    <None Remove="Fonts\NightTrimmer.otf" />
+    <None Remove="Fonts\PlaceLove.otf" />
+    <None Remove="Fonts\RionaldoAngelo.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Fonts\AdventureScript.ttf" />
+    <EmbeddedResource Include="Fonts\FunnyPirates.otf" />
+    <EmbeddedResource Include="Fonts\MidnightShow.ttf" />
+    <EmbeddedResource Include="Fonts\NightTrimmer.otf" />
+    <EmbeddedResource Include="Fonts\PlaceLove.otf" />
+    <EmbeddedResource Include="Fonts\RionaldoAngelo.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2622" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.8.1" />
   </ItemGroup>
 </Project>

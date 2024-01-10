@@ -10,9 +10,17 @@ namespace Criticografo_SAEG
 {
     public partial class MainPage : ContentPage
     {
+        private int caracteresPorLinea = 17;
+        private int caracteresContados = 0;
+
         public MainPage()
         {
             InitializeComponent();
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+
         }
     }
 }
